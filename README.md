@@ -10,5 +10,5 @@ This project explores the key factors influencing student academic performance a
 * Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)
 * Jupyter Notebook for interactive exploration
 
-##Insights
+## Insights
 * Exam Scores are influenced by Hours Studied and Attendance.
